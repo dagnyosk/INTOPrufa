@@ -32,6 +32,7 @@ int hrugufjoldi;
 int main( )
 {
 	int val;
+	cout << "Thetta er mitt comment - Dagny" << endl;
 	do
 	{
 		cout << endl << endl << endl;
